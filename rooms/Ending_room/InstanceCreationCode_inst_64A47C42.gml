@@ -1,0 +1,1 @@
+target=SlideTransition(Trans_Mode.Restart);
